@@ -1,0 +1,51 @@
+.bethel{
+	
+	/*background-size: center center;
+	background-repeat: no-repeat;
+	padding-bottom: 50px;
+	padding-top: 150px;*/
+}
+.navbar navbar-default{
+    background-color: #3F51B5;
+}
+.nav navbar-nav{
+	padding-left: 100px;
+	
+	float: right;
+	display: inline-block;
+}
+.home{
+	padding-left: 500px;
+}
+.FooterNav{
+	background-color: yellow;
+	font-family: 'Qwigley', cursive;
+}
+.MyForm{
+	border-style: double border;
+	border-radius: 50%,
+	border-width: 10px;
+}
+.About{
+	background-color: #FFEB3B;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-family: 
+}
+.body{
+	background-color: gold;
+	font-family: 'Spectral SC', serif;
+}
+*{
+	box-sizing: border-box;
+}
+.navbar-header{
+	width: 50%;
+	background-color: #fff;
+}
+.navbar-collapse{
+	height: inherit;
+	width: 50%;
+	background-color: #e74c3c;
+
+}
